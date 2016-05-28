@@ -1,0 +1,31 @@
+body {
+	font-family: 'Antic Slab', serif;
+  background-color: #52B3A5;
+}
+
+.quote-box {
+  /*padding:20px;*/
+  margin-top:40px;
+  margin-right:40px;
+  margin-left:40px;
+  margin-bottom:10px;
+	color: #000; 
+	background-color: #fff;
+}
+
+.share-box{
+  font-size: 1.3em;
+  /*padding:20px;
+  margin:10px;*/
+  color: #fff; 
+	/*background-color: #887987;*/
+  color: #fff;
+}
+
+.share-box > a {
+  color: rgba(255,255,255,1);
+  padding: 5px;
+  transition: color .2s;
+}
+
+
